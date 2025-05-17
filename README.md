@@ -2,4 +2,6 @@
 # lcms-practice-template
 LCMS template code for the practice
 
+This project has been developed by Marta Diez, María Sevilla, Lorena Cano, Amalia Rial
+
 Read the [PDF description wit the requirements](https://website-name.com)
